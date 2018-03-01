@@ -14,6 +14,8 @@ In order to improve the project, you'll first need to download the project code:
 
 Check out how it's structured, and try to understand how it works. You'll be fixing bugs, adding tests, and optimizing performance.
 
+![Todos](https://github.com/pagan-bear/enhance_existing_project/blob/master/TodosList.png)
+
 Make this to-do list app better than ever!
 Make this to-do list app better than ever!
 ## Step 1: Fix the bugs
