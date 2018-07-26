@@ -17,7 +17,7 @@ Check out how it's structured, and try to understand how it works. You'll be fix
 ![Todos](https://github.com/pagan-bear/enhance_existing_project/blob/master/TodosList.png)
 
 Make this to-do list app better than ever!
-Make this to-do list app better than ever!
+
 ## Step 1: Fix the bugs
 ---
 There are 2 bugs in the code, and it's your job to find them! Here are some hints:
@@ -38,7 +38,7 @@ As mentioned above, you might notice that this project has some tests but defini
 This step may appear to be a bit long and tedious, but it'll save you time and bad surprises later.
 
 > You'll need to run npm install  on the project in order to install the requisite Jasmine materials.
--
+
 There's an existing test file called  ControllerSpec.js  in the project, and you should find all instances of the comment below and add tests there.
 
 ```
