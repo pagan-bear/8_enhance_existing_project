@@ -6,5 +6,23 @@
   },
   "devDependencies": {
     "jasmine-core": "^2.0.0"
-  }
+  },
+  "name": "todo-list-app",
+  "version": "1.0.0",
+  "description": "OC Project 8 - To Do List",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "todo",
+    "jasmine",
+    "OC",
+    "project-8"
+  ],
+  "author": "Glenn Bayes",
+  "license": "ISC"
 }

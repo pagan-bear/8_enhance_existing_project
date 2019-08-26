@@ -1,4 +1,4 @@
-/*global app, jasmine, describe, it, beforeEach, expect */
+/* global app, jasmine, describe, it, beforeEach, expect */
 
 describe('controller', function () {
 	'use strict';
